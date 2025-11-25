@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "prodmoh": {
+      "type": "sse",
+      "url": "https://prodmoh.com/sse",
+      "headers": {
+        "x-prodmoh-user": "YOUR_USER_ID_HERE",
+        "x-prodmoh-token": "YOUR_TOKEN_HERE"
+      }
+    }
+  }
+}
