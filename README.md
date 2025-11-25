@@ -61,6 +61,13 @@ Use the AI as a 'QA Buddy' to check your work against the spec.
 Don't wait for a Zoom call to get an answer.
 > **Prompt:** "@ProdMoh What are the specific password complexity rules defined in the Security PRD? Do we require special characters?"
 
+<img width="1024" height="1024" alt="ChatGPT Image Nov 25, 2025, 10_38_12 PM" src="https://github.com/user-attachments/assets/0e49e14f-e658-4c19-bb2b-b2c462edf48d" />
+
+<img width="937" height="697" alt="Screenshot 2025-11-25 at 10 41 49 PM" src="https://github.com/user-attachments/assets/03a31235-c228-4380-b40e-d12841ea128b" />
+
+<img width="846" height="681" alt="Screenshot 2025-11-25 at 10 46 59 PM" src="https://github.com/user-attachments/assets/af5562cc-16af-4c44-a29f-7ce6a986e95e" />
+
+
 ## 🛠️ Installation & Setup
 
 You do not need to run a local server. ProdMoh provides a hosted MCP endpoint via **Server-Sent Events (SSE)**.
